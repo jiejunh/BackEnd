@@ -12,3 +12,5 @@ const userSchema = mongoose.Schema({
 //email schema
 
 module.exports = mongoose.model('User', userSchema);
+
+//extra comment
